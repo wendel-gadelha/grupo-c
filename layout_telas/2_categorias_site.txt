@@ -1,0 +1,55 @@
+Dropshipping:
+Nossa ideia é criar um E-commerce genérico sem nicho específico. 
+
+Uma loja virtual que vende produtos sem estoque, 
+sendo o intermediador entre o fornecedor e o cliente.
+
+Categorias de produtos:
+
+1. Moda Masculina
+   - Camisetas e Polos
+   - Calças e Bermudas
+   - Acessórios e Relógios
+   - Calçados
+
+2. Moda Feminina
+   - Vestidos e Saias
+   - Blusas e Tops
+   - Bolsas e Acessórios
+   - Lingerie e Moda Praia
+
+3. Eletrônicos
+   - Smartphones e Acessórios
+   - Informática e Periféricos
+   - Áudio e Vídeo
+   - Gadgets e Wearables
+
+4. Casa & Jardim
+   - Móveis & Eletrodomésticos
+   - Cozinha
+   - Decoração 
+   - Jardim e Ferramentas
+
+5. Pets
+   - Alimentação e Petiscos
+   - Brinquedos e Acessórios
+   - Higiene e Saúde
+   - Camas e Transporte
+
+6. Livros & Escritório
+   - Livros e E-books
+   - Material de Escritório
+   - Papelaria e Artes
+   - Eletrônicos de Escritório
+
+7. Beleza e Saúde
+   - Maquiagem e Cosméticos
+   - Cuidados com a Pele
+   - Perfumaria
+   - Suplementos e Vitaminas
+
+8. Esportes e Lazer
+   - Equipamentos Esportivos
+   - Roupas e Calçados Esportivos
+   - Camping e Aventura
+   - Jogos e Entretenimento
